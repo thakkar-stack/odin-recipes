@@ -1,0 +1,54 @@
+body {
+    background-image: url(../images/moroccan-flower-dark.webp);
+    font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+    font-size: 20px;
+    margin: 0;
+    color: aliceblue;
+}
+/* this is a css comment */
+h1 {
+    background-color: aliceblue;
+    color: black;
+    padding: 50px;
+    margin: 0;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.index a {
+    color: white;
+}
+
+.index a:visited {
+    color: gray;
+}
+
+.index a:hover {
+    color: greenyellow;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+section{
+    float: left;
+    width: 45%;
+    margin-bottom: 50px;
+}
+
+aside{
+    float: right;
+    width: 45%;
+    margin-bottom: 50px;
+}
+
+.page2 img {
+    width: 100%;
+    height: auto;
+}
+
+.page3 img {
+    width: 100%;
+    height: auto;
+}
